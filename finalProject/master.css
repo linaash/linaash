@@ -1,0 +1,57 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: #e5dace;
+}
+header {
+    background-color: #2c1f1f;
+    color: #f6e7c8;
+    font-style: oblique;
+    font-size : 50px;
+    text-align: center;
+    font-style :initial;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+    font-style: oblique;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px;
+    color: #cbe2db;
+
+}
+
+.imgs {
+    text-align: center;
+}
+
+.content {
+    background-color: #832231;
+    color: #f6e7c8;
+    font-style :normal;
+    font-size : 20px;
+    text-align: center;
+    font-style :initial;
+    padding: 10px;
+}
+ .lang {
+     text-align: center;
+     margin-top: 30px;
+ }
+.contact_me {
+    text-align: center;
+}
+.contact{
+    background-color: #2c1f1f ;
+    color: #f5f2ee;
+    font-style: oblique;
+    font-size : 20px ;
+    text-align: left;
+    font-style :initial;
+    padding: 10px;
+}
